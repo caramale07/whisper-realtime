@@ -21,7 +21,8 @@ This project uses OpenAI's Whisper model to transcribe speech in real time. It c
    python -m venv env
    .\env\Scripts\activate
 
-## Run
+## **Run**
+
     ```bash
     python main_en.py
 
