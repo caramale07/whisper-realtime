@@ -11,7 +11,7 @@ This project uses OpenAI's Whisper model to transcribe speech in real time. It c
 
 1. **Clone the repository:**
 
-   If applicable, clone this repository or download the project files to your local machine.
+   Clone this repository or download the project files to your local machine.
 
 2. **Set up a Python virtual environment:**
 
